@@ -1,0 +1,9 @@
+C:\Users\daoud\source\repos\WebApplication\ModelCommun\bin\Debug\netcoreapp3.1\ModelCommun.deps.json
+C:\Users\daoud\source\repos\WebApplication\ModelCommun\bin\Debug\netcoreapp3.1\ModelCommun.dll
+C:\Users\daoud\source\repos\WebApplication\ModelCommun\bin\Debug\netcoreapp3.1\ModelCommun.pdb
+C:\Users\daoud\source\repos\WebApplication\ModelCommun\obj\Debug\netcoreapp3.1\ModelCommun.csprojAssemblyReference.cache
+C:\Users\daoud\source\repos\WebApplication\ModelCommun\obj\Debug\netcoreapp3.1\ModelCommun.csproj.CoreCompileInputs.cache
+C:\Users\daoud\source\repos\WebApplication\ModelCommun\obj\Debug\netcoreapp3.1\ModelCommun.AssemblyInfoInputs.cache
+C:\Users\daoud\source\repos\WebApplication\ModelCommun\obj\Debug\netcoreapp3.1\ModelCommun.AssemblyInfo.cs
+C:\Users\daoud\source\repos\WebApplication\ModelCommun\obj\Debug\netcoreapp3.1\ModelCommun.dll
+C:\Users\daoud\source\repos\WebApplication\ModelCommun\obj\Debug\netcoreapp3.1\ModelCommun.pdb
